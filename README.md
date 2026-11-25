@@ -18,7 +18,7 @@
 
 - 📍 Based in **India**
 - 🏢 Working at **Writistic Studios LLP**
-- 👥 **1** follower · **1** following
+- 👥 **1** follower · **3** following
 
 *Small, useful work over vague claims.*
 
