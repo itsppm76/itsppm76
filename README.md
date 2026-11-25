@@ -5,8 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · itsppm76</sub></p>
 <h1>Pratham Prateek Mohanty</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Founder and CSO @Writistic-Studios-LLP</p>
+<h2>Founder and CSO @Writistic-Studios-LLP</h2>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in India · Building at Writistic Studios LLP</sub></p>
 <p><a href="https://github.com/itsppm76">GitHub</a></p>
@@ -22,8 +21,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · Jupyter Notebook</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 12 stars</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Founder and CSO @Writistic-Studios-LLP · Python · HTML · Jupyter Notebook</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>13 public repositories · 12 public stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>2,552 contributions · 134 active days</p></td>
 </tr>
 </table>
@@ -34,8 +33,8 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Public Repositories</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Public Stars</sub></td>
 <td width="25%" align="center"><strong>2,552</strong><br /><sub>Contributions</sub></td>
 <td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
 </tr>
